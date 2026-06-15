@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "PowerShell(npm install https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git)",
+      "WebFetch(domain:github.com)",
+      "Bash(uipro init *)",
+      "Bash(python3 skills/ui-ux-pro-max/scripts/search.py \"landscaping services chicago elegant premium minimalist navy sage green\" --design-system -p \"True Care Services\" -f markdown)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --no-git --import-alias --src-dir --app)",
+      "Bash(npx -y create-next-app@latest . --typescript --tailwind --eslint --no-git --no-install --import-alias '@/*')"
+    ]
+  }
+}
